@@ -1,4 +1,4 @@
-# RagaAI Scheduling Agent
+# AI Scheduling Agent
 
 ## Setup
 1. Create a Python virtual environment
